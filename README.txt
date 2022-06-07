@@ -1,6 +1,6 @@
 hi there.
 i'm here.
-new line1
-newnewline
-newnewline
-new line from github (remote)
+
+test2 new line 
+test2 new line from remote
+new line master
